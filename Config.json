@@ -1,0 +1,9 @@
+{
+  "AccessKeyID": "AKIAJUNN5276J5VSR7OQ",
+
+  "SecretAccessKey": "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",
+
+  "S3_Bucket": {
+    "shopin_resources": "shopin-resources"
+  }
+}
